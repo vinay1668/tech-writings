@@ -3,6 +3,11 @@
 
 ![Go + HTMX](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IY9WS_FYc6P0LHJcU2i86Q.jpeg)
 
+For a hands-on exploration of the concepts discussed in this article, check out the complete project repository:  [Go-HTMX Template Project](https://github.com/vinay1668/go-htmx/tree/master)
+
+This repository contains a fully functional template showcasing the power of Go and HTMX combined.
+
+
 ## Introduction
 
 In the ever-evolving landscape of web development, finding the right balance between performance, simplicity, and developer productivity is crucial. Enter the Go + HTMX stack: a compelling combination that's gaining traction among developers who seek efficiency without sacrificing the dynamic nature of modern web applications. This blog post will dive deep into this exciting tech stack, exploring how it can revolutionize your web development process.
