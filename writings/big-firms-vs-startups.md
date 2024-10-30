@@ -1,0 +1,33 @@
+# Why Established Companies Lag in Product Development Compared to Startups
+
+What are the factors that affect product development? Why is it that some projects are developed very quickly, while others take a lot of time to build? We will consider GEN-AI while answering this question.
+
+Any software product can be built very quickly if there are fewer restrictions. Let's consider two scenarios. In Scenario A, the product is developed by a team of 6 people in an established software company with its own rules, policies, and regulations. In Scenario B, the same type of product is developed by two undergraduates (for the sake of the question, let's assume the developers' skills are the same). Even then, the undergraduates will complete the project much quicker without compromising the quality of the product. Here's why:
+
+## 1. Requirement Phase
+
+In Scenario A, the project leads will focus heavily on project research and market research before starting the development. This is valid to some extent, but typically, these people take a lot of time. Their processes are not flexible and are not subject to change. For example, when the requirement comes from the top leadership in the company, and the project leads are asked to research it, there will be small misunderstandings of what the CEO is thinking and what was passed on to the project leads. The leads will research based on their own understanding, not the exact needs of the CEO. This misunderstanding may not be significant, but it is not negligible and can have a ripple effect. 
+
+In Scenario B, the two undergraduates will also conduct market research, but to a lesser extent than the established companies, as their resources are minimal, and they will quickly move on to the next project if the current one is not successful. This flexibility is severely lacking in established software institutions. Additionally, the co-founders in Scenario B are highly aligned on what they want to build, as they will be working day and night to complete the product as soon as possible, which is not the case in  Scenario A.
+
+## 2. Design Phase
+
+For this phase, let's consider UI/UX design and backend design together. In Scenario A, there will be a separate UI team for the design, and they can only start the work once they have a clear requirement from the previous phase and the initial design from the project leads. Even in the agile model, they need to have a good understanding of the requirement to start the design of at least the first five pages. 
+
+The main issue in this scenario is the misunderstanding about the product, again. As the UI engineer starts working on the design, they may make design choices based on their own unconscious bias, which may not be applicable to this specific project. Later, when the initial design is ready for review, the project leads may not be satisfied with the design because it is not exactly what they want. This leads to rework for the UI team, which takes more time to finish. By this stage, the project is already delayed compared to the agreed terms, unless they expect these situations, but even then, a lot of time is generally wasted, which could be avoided. 
+
+In Scenario B, the two undergraduates may not be UI designers at all, so they have to look for cost-efficient solutions, like using GEN-AI. They can generate the initial designs using free AI design tools, which is suitable for them because they keep changing the designs very often and don't require a solid design, which makes their development more flexible. If they follow this way, it's true that they won't know exactly what features they will be building next, but it provides a lot of flexibility to change anything at any time. 
+
+The team from Scenario A will also use GEN-AI wherever they need, but since it's a corporate environment, they won't be able to use all the free resources or AI tools out there because the company might have blocked them due to security or policy concerns. All these restrictions on the team from Scenario A make them less effective, and they won't be anywhere near the team from Scenario B in terms of product development progress.
+
+## 3. Development and Testing
+
+After the designs are completed enough to start the development process, let's consider that both teams from the two scenarios are using GEN-AI for code completion. However, in Scenario A, where the team works under a corporate environment, they might be using either one or mostly two code assistant tools, let's say they have an enterprise subscription of GitHub Copilot. As of now, in December 2024, according to my assessment, GitHub Copilot has very few features compared to other great tools in the market, like Cursor or Cody by Sourcegraph. 
+
+The reason I picked GitHub Copilot for the team from Scenario A is that well-established companies mostly prefer to use tools from tech giants, mainly Microsoft, even though they may not be the best in the market. This alone (using not-so-good tools for code development) can cause a lot of delay and manual work in the product development. And once the development is done, the team from Scenario A mostly prefers to follow rigorous unit testing, policy, and security scans. I agree that test cases are important and needed for any product, but are they really necessary for the MVP and for the product where there will be frequent changes to the design and code ? The development of unit test cases takes approximately 40% of the time required to develop the code. All these issues won't be present for the team from Scenario B, which is very flexible. They can build the product with security in mind, but it wouldn't delay the product development in any way.
+
+## Conclusion
+
+I believe these are some of the reasons why established corporates can't make great products compared to startups.Their rigid processes and inability to adapt flexibly to market requirements make product development very slow, limiting their ability to compete in the market. However, their recognition and previous clients help them a lot. For example, GitHub Copilot is not a very great code assistant, but it is currently promoting itself as if there is no such tool in the market, which is entirely false.
+
+Unfortunately, any product that was built, like the two undergraduates from Scenario B or a startup, after some years of successful journey, will eventually become like the team from Scenario A.

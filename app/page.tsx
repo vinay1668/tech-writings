@@ -1,8 +1,11 @@
 import Link from 'next/link';
 
 const writings = [
-  { id: "go-htmx", title: "Go + HTMX - Modern Web Development", date: "2023-09-10" },
-  { id: "AI-driven-sdlc", title: "The AI-Driven Software Revolution: Reimagining the Development Lifecycle with Intelligent Agents", date: "2023-09-26" },
+  { id: "big-firms-vs-startups", title: "Why Established Companies Lag in Product Development Compared to Startups", date: "2024-10-30" },
+  { id: "AI-driven-sdlc", title: "The AI-Driven Software Revolution: Reimagining the Development Lifecycle with Intelligent Agents", date: "2024-09-26" },
+  { id: "go-htmx", title: "Go + HTMX - Modern Web Development", date: "2024-09-10" },
+
+
 ];
 
 function formatDate(dateString: string) {
