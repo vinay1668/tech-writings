@@ -8,6 +8,8 @@ Deploying a web application is like constructing a complex building. Just as arc
 
 ### Choosing the Right Operating System
 
+![image](https://github.com/user-attachments/assets/31e79a97-3f73-4d05-93c0-676d7a700b73)
+
 Imagine selecting the perfect foundation for a house. In cloud computing, this foundation is your operating system. We'll choose Ubuntu Server 22.04 LTS (Long-Term Support) - a stable, secure, and developer-friendly Linux distribution. This version offers:
 - Regular security updates
 - Extensive community support
