@@ -18,6 +18,8 @@ Imagine selecting the perfect foundation for a house. In cloud computing, this f
 
 ### Instance Type: Matching Power to Purpose
 
+![image](https://github.com/user-attachments/assets/0e1ac312-4362-41e8-a9d3-70ad515ad84a)
+
 Selecting an EC2 instance is like choosing a vehicle for a specific journey. For development and small-scale applications, the `t2.micro` instance is ideal:
 - Free-tier eligible
 - 1 vCPU
@@ -40,6 +42,8 @@ Security groups act as your application's digital gatekeepers. We'll configure p
 - Custom ports for specific application needs
 
 ### Key Pair: Your Secure Access Mechanism
+
+![image](https://github.com/user-attachments/assets/c02bf0b2-6ed4-4405-8f54-bdf6a388b712)
 
 The key pair is like a sophisticated, cryptographic key to your server:
 - Generates a public-private key pair
